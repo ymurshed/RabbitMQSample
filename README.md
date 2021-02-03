@@ -1,0 +1,2 @@
+# RabbitMQSample
+RabbitMQ sample project.
